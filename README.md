@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/muhammedabdelnaser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="muhammedabdelnaser" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Muhammed-Abdelnaser-437712191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-abdelnaser-437712191" height="30" width="40" /></a>
 <a href="https://fb.com/MuhammedAbdelnaser2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammedabdelnaser2001" height="30" width="40" /></a>
 </p>
