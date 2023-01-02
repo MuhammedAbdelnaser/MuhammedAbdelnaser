@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Abdelnaser</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedabdelnaser&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedabdelnaser" /> </p>
-
 - 🔭 I’m currently working on [New-Event-React](https://github.com/MuhammedAbdelnaser/New-Event-React)
 
 - 🌱 I’m currently learning **Redux and NEXT.js**
