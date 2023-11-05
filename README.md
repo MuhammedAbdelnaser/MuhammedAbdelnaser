@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammed Abdelnaser</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Tadabur.com](https://tadabur.com)
+- 🔭 I’m currently working on [Tru.net](https://tru.net)
 
-- 🌱 I’m currently learning **Redux and NEXT.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammedAbdelnaser](https://github.com/MuhammedAbdelnaser)
 
